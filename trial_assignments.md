@@ -13,7 +13,7 @@
 ---
 ### Details 
 * You can use any weather api you like, for example
-  * [wttr.in](wttr.in)
+  * [wttr.in](http://wttr.in/)
   * [openweathermap](https://openweathermap.org/api)
 - You must implement data persistence on reload closing the page
 - You must implement smooth deletion and addition to the list, as well as correctly display the absence of data in the list, errors that are returned by api (or your own)
