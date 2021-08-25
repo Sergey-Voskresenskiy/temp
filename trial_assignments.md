@@ -12,10 +12,10 @@
 - Нou can use any ui framework you want
 ---
 ### Details 
-- You can use any weather api you like, for example
--- [wttr.in](wttr.in)
--- [openweathermap](https://openweathermap.org/api)
+* You can use any weather api you like, for example
+  * [wttr.in](wttr.in)
+  * [openweathermap](https://openweathermap.org/api)
 - You must implement data persistence on reload closing the page
 - You must implement smooth deletion and addition to the list, as well as correctly display the absence of data in the list, errors that are returned by api (or your own)
 - You must implement a smooth transition between pages
-- You must create a repository with a project on gita or bitbucket, etc. and write instructions for launching the application
+- You must create a repository with a project on github or bitbucket, etc. and write instructions for launching the application
